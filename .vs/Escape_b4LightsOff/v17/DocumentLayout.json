@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\MirrorPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MirrorPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FloorProgression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarterAssets\\FloorProgression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\cameralookups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\cameralookups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\DoorLock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorLock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\HammerItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HammerItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarterAssets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\CameraLook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarterAssets\\CameraLook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloorProgression.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FloorProgression.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\FloorProgression.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FloorProgression.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\FloorProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:11:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MirrorPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\MirrorPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\MirrorPuzzle.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\MirrorPuzzle.cs",
+              "RelativeToolTip": "Assets\\MirrorPuzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:01:09.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoorLock.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\DoorLock.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorLock.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\DoorLock.cs",
+              "RelativeToolTip": "Assets\\DoorLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T23:00:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cameralookups.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\cameralookups.cs",
+              "RelativeDocumentMoniker": "Assets\\cameralookups.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\cameralookups.cs",
+              "RelativeToolTip": "Assets\\cameralookups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:25:21.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:23:18.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:50:17.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerMaster.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMaster.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\PlayerMaster.cs",
+              "RelativeToolTip": "Assets\\PlayerMaster.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAASwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:36:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HammerItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\HammerItem.cs",
+              "RelativeDocumentMoniker": "Assets\\HammerItem.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\HammerItem.cs",
+              "RelativeToolTip": "Assets\\HammerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:56:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:23:30.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraLook.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\CameraLook.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\CameraLook.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\CameraLook.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\CameraLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:24:35.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\Sarikha\\Escape_b4LightsOff\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAIwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:54:28.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
